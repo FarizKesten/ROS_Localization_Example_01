@@ -2,3 +2,6 @@
 	path = src/turtlebot3_simulations
 	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
 	branch = kinetic-devel
+[submodule "src/robot_pose_ekf"]
+	path = src/robot_pose_ekf
+	url = https://github.com/FarizKesten/robot_pose_ekf.git
